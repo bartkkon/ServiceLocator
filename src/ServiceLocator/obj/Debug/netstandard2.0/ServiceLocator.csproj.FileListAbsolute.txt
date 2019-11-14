@@ -1,0 +1,8 @@
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\bin\Debug\netstandard2.0\ServiceLocator.deps.json
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\bin\Debug\netstandard2.0\ServiceLocator.dll
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\bin\Debug\netstandard2.0\ServiceLocator.pdb
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\obj\Debug\netstandard2.0\ServiceLocator.csprojAssemblyReference.cache
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\obj\Debug\netstandard2.0\ServiceLocator.AssemblyInfoInputs.cache
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\obj\Debug\netstandard2.0\ServiceLocator.AssemblyInfo.cs
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\obj\Debug\netstandard2.0\ServiceLocator.dll
+D:\moje\ServiceLocator\ServiceLocator\src\ServiceLocator\obj\Debug\netstandard2.0\ServiceLocator.pdb
